@@ -1,0 +1,11 @@
+--2024-06-05 19:33:13--  https://th.bing.com/th/id/OIP.AZ_J-PVLzas__sgMbG5P7QHaE8?rs=1
+Resolving th.bing.com (th.bing.com)... 23.205.255.110, 23.205.255.103, 23.205.255.107, ...
+Connecting to th.bing.com (th.bing.com)|23.205.255.110|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 16253 (16K) [image/jpeg]
+Saving to: ‘monkey.jpg’
+
+monkey.jpg                  0%[                                     ]       0  --.-KB/s               monkey.jpg                100%[====================================>]  15.87K  --.-KB/s    in 0.006s  
+
+2024-06-05 19:33:13 (2.53 MB/s) - ‘monkey.jpg’ saved [16253/16253]
+
